@@ -63,17 +63,4 @@ form{
     border-radius: 5px;
     margin-bottom: 10px;
   }
-  
-  li button {
-    background: #dc3545;
-    border: none;
-    padding: 5px 10px;
-    color: white;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background 0.3s;
-  }
-  
-  li button:hover {
-    background: #c82333;
-  }
+
